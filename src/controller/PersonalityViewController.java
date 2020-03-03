@@ -43,7 +43,7 @@ public class PersonalityViewController extends HttpServlet {
 		// The value returned from the method is of type string.
 		// Store the String returned in a string literal called as message
 				
-		/* Un the below lines to test your code l
+		 Un the below lines to test your code l
 
 		request.setAttribute("message", message);
 		
